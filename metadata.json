@@ -1,0 +1,6 @@
+{
+  "name": "Mukul Plus",
+  "description": "Premium OTT streaming platform with Movies, Series, and Live TV inspired by Bioscope+.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Mukul Plus</string>
+    <string name="tab_home">হোম</string>
+    <string name="tab_movies">মুভিজ</string>
+    <string name="tab_series">সিরিজ</string>
+    <string name="tab_live_tv">লাইভ টিভি</string>
+    <string name="tab_downloads">ডাউনলোড</string>
+    <string name="tab_more">মোর</string>
+    <string name="tab_settings">সেটিংস</string>
+    <string name="search_hint">মুভি, নাটক, চ্যানেল খুঁজুন...</string>
+    <string name="watch_now">এখন দেখুন</string>
+    <string name="download">ডাউনলোড</string>
+    <string name="add_to_watchlist">তালিকায় রাখুন</string>
+    <string name="recommendations">বাছাইকৃত বিনোদন</string>
+    <string name="popular_channels">লাইভ চ্যানেলসমূহ</string>
+    <string name="episodes">পর্বসমূহ</string>
+    <string name="live_badge">LIVE</string>
+</resources>
